@@ -113,13 +113,3 @@ Update these instructions based on the setup method and files included in your r
 Through this project, I practiced applying SQL to real-world-style sales analysis, including data exploration, trend analysis, customer segmentation, product performance evaluation, and report creation.
 
 The project demonstrates my ability to use SQL to investigate business questions and communicate data-driven findings.
-
-## 📚 Credits & References
-
-This project is inspired by the SQL Data Analytics Project by Data With Baraa.
-
-- Original repository: https://github.com/DataWithBaraa/sql-data-analytics-project
-- YouTube channel: https://www.youtube.com/@datawithbaraa
-
-The original project and its materials are credited to their respective creator. My contributions, modifications, and additional analysis should be documented separately.
-
